@@ -1,0 +1,10 @@
+
+{
+  "name": "jenkins-nodejs-jakep",
+  "version": "1.0.0",
+  "description": "A simple Node.js project built with Jenkins",
+  "main": "app.js",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
